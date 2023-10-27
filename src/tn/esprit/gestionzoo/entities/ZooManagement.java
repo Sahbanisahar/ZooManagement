@@ -1,5 +1,4 @@
-//Instruction 3
-import java.util.Scanner;
+package tn.esprit.gestionzoo.entities;//Instruction 3
 
 public class ZooManagement {
     int nbrCages = 20;
