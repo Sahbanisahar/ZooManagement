@@ -3,6 +3,7 @@ import tn.esprit.gestionzoo.entities.Animal;
 
 public class Zoo {
     private Animal[] animals;
+    private Animal[] aquaticAnimals ;
     private String name;
     private String city;
     private static final int nbrCages = 25;
@@ -60,4 +61,7 @@ public class Zoo {
         }
         return index;
     }
+
+
+
 }
